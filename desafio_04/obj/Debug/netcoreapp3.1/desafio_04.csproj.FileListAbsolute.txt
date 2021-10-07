@@ -1,0 +1,14 @@
+C:\Users\Luizin\Desktop\desafios\desafio_04\desafio_04\obj\Debug\netcoreapp3.1\desafio_04.csproj.AssemblyReference.cache
+C:\Users\Luizin\Desktop\desafios\desafio_04\desafio_04\obj\Debug\netcoreapp3.1\desafio_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luizin\Desktop\desafios\desafio_04\desafio_04\obj\Debug\netcoreapp3.1\desafio_04.AssemblyInfoInputs.cache
+C:\Users\Luizin\Desktop\desafios\desafio_04\desafio_04\obj\Debug\netcoreapp3.1\desafio_04.AssemblyInfo.cs
+C:\Users\Luizin\Desktop\desafios\desafio_04\desafio_04\obj\Debug\netcoreapp3.1\desafio_04.csproj.CoreCompileInputs.cache
+C:\Users\Luizin\Desktop\desafios\desafio_04\desafio_04\bin\Debug\netcoreapp3.1\desafio_04.exe
+C:\Users\Luizin\Desktop\desafios\desafio_04\desafio_04\bin\Debug\netcoreapp3.1\desafio_04.deps.json
+C:\Users\Luizin\Desktop\desafios\desafio_04\desafio_04\bin\Debug\netcoreapp3.1\desafio_04.runtimeconfig.json
+C:\Users\Luizin\Desktop\desafios\desafio_04\desafio_04\bin\Debug\netcoreapp3.1\desafio_04.runtimeconfig.dev.json
+C:\Users\Luizin\Desktop\desafios\desafio_04\desafio_04\bin\Debug\netcoreapp3.1\desafio_04.dll
+C:\Users\Luizin\Desktop\desafios\desafio_04\desafio_04\bin\Debug\netcoreapp3.1\desafio_04.pdb
+C:\Users\Luizin\Desktop\desafios\desafio_04\desafio_04\obj\Debug\netcoreapp3.1\desafio_04.dll
+C:\Users\Luizin\Desktop\desafios\desafio_04\desafio_04\obj\Debug\netcoreapp3.1\desafio_04.pdb
+C:\Users\Luizin\Desktop\desafios\desafio_04\desafio_04\obj\Debug\netcoreapp3.1\desafio_04.genruntimeconfig.cache
